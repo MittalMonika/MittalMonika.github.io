@@ -43,7 +43,7 @@
 
 				<section id="intro" class="wrapper spotlight style1">
 				<div class="inner">
-				    <a class="image"><img src="images/Monika.jpg" alt="Monika Mittal" width="250" height="350"/></a> 
+				    <a class="image"><img src="images/Monika.jpg" alt="Monika Mittal" width="250" height="250"/></a> 
 				    <div class="content">
 				          <h2 class="major" >Monika Mittal | Data Scientist</h2>
 					  <p>An experienced Data Scientist with over 7 years of hands-on expertise, driven by a relentless passion for unlocking data's hidden gems. My journey began with a Ph.D. in high-energy physics, exploring the universe's mysteries through data at CERN. My track record shines with numerous publications and engaging presentations.</p>
@@ -61,8 +61,56 @@
 
 				<!-- Wrapper -->
 					<section id="wrapper">
+					  <!-- Credit Fraud -->
+                                                        <section id="one" class="wrapper spotlight style3">
+                                                               <div class="inner">
+                                                                        <a href="Yolov8.html" class="image"><img src="images/image_f.png" width="250" height="350" alt="Artificial Intelligence" /></a>
+                                                                        <div class="content">
+                                                                                <h2 class="major">Fraud Detection Using Machine Learning</h2>
+										<p> Through the art of data storytelling of hidden fraudulent patterns, and intelligent modeling paves the way for more secure transactions</p>
+										<p> In the rapidly evolving digital age, the menace of fraud poses a significant challenge to financial security and consumer trust. This project is a comprehensive exploration into the world of financial fraud, where cutting-edge data science techniques are employed to detect and prevent fraudulent activities.This project encompassed an extensive Exploratory Data Analysis (EDA), the application of traditional machine learning models, and the innovative use of neural networks. Each step was carefully crafted to unravel the complexities of credit card transaction data, uncovering patterns and anomalies indicative of fraudulent activities.Through meticulous analysis and model development, it strived to bridge the gap between theoretical data science and practical, impactful applications. This project showcases not only a deep understanding of various data science methodologies but also a keen awareness of their implications in the real-world scenario of financial fraud detection.
+
+
+</p>
+                                                                               <a href="Yolov8.html" class="special">View Project</a>
+									</div>
+                                                                </div>
+                                                        </section>
+
+
+
+
+				<!-- Wrapper -->
+
+
+
+
+
+
+				<!-- Wrapper -->
+					<section id="wrapper">
 					  <!-- Ocne -->
-                                                        <section id="one" class="wrapper spotlight style1">
+                                                        <section id="two" class="wrapper spotlight style1">
+                                                               <div class="inner">
+                                                                        <a href="Yolov8.html" class="image"><img src="images/table4.png" width="250" height="350" alt="Artificial Intelligence" /></a>
+                                                                        <div class="content">
+                                                                                <h2 class="major">Vision-Enhanced Predictive Analytics</h2>
+										<p> Blending Advanced AI for Intelligent Object Recognition and Predictive Analytics, Streamlined with Digital Signature Platforms for Enhanced Efficiency</p>
+
+										<p> In this project, the integration of cutting-edge OCR (Optical Character Recognition) and AI-based object detection technologies to transform how signatures are identified and processed in documents. Our approach harnesses the power of advanced computer vision algorithms to accurately locate 'Sign Here' boxes in a wide array of documents, enhancing the precision and efficiency of signature capture. Coupled with sophisticated machine learning models, including regression for text-based validation, the system offers a robust solution for automating the signature detection process. The seamless integration with electronic signature platforms  further streamlines the workflow, bridging the gap between AI-driven detection and practical application in digital document management. It is a testament to how AI can innovate traditional processes, bringing a new level of intelligence and automation to document handling and processing.
+</p>
+                                                                               <a href="Yolov8.html" class="special">View Project</a>
+									</div>
+                                                                </div>
+                                                        </section>
+
+
+
+
+				<!-- Wrapper -->
+					<section id="wrapper">
+					  <!-- Ocne 1-->
+                                                        <section id="three" class="wrapper spotlight style1">
                                                                <div class="inner">
                                                                         <a href="Yolov8.html" class="image"><img src="images/table3.png" width="250" height="350" alt="Artificial Intelligence" /></a>
                                                                         <div class="content">
@@ -77,7 +125,7 @@
                                                         </section>
 
 			                            <!-- Two -->
-							<section id="two" class="wrapper alt spotlight style2">
+							<section id="four" class="wrapper alt spotlight style2">
 								<div class="inner">
 									<a href="PredictPrice_JP.html" class="image"><img src="images/Forcast.png" width="250" height="350" alt="Time series forecasting" /></a>
 									<div class="content">
@@ -95,7 +143,7 @@
 							</section>
 
 						<!-- Three -->
-							<section id="four" class="wrapper spotlight style3">
+							<section id="five" class="wrapper spotlight style3">
 								<div class="inner">
 									<a href="TSHC.pdf" class="image"><img src="images/HC.png" alt="" />SQL</a>
 									<div class="content">
@@ -108,6 +156,37 @@
 								</div>
 							</section>
 
+
+
+							<!-- Five -->
+                                                        <section id="six" class="wrapper style1">
+                                                                <div class="inner">
+
+			
+								  <h2 class="major">Dashboards</h2>
+								  <p>As a continuous act of learning and applying the foundations I delved into during my period at CERN, I am now exploring the practical uses of various tools and platforms in the industry. Here, I showcase my recent forays into creating dashboards using Tableau. Although what you see here are static samples, rest assured that each dashboard is fully functional and interactive. I am actively honing this skill and will be updating this section with more work soon!</p>
+								  <h3 class="major">Healthcare Analytics Dashboard: Length of Stay and 30-Day Readmission</h3>
+								  <p>This dashboard provides actionable insights into hospital operational metrics, with a particular focus on Length of Stay (LOS) and 30-day Readmission rates—key indicators of hospital efficiency and patient care quality...</p>
+
+								  <section class="features" style="display: flex; justify-content: space-between;">
+								    <article style="flex: 1; max-width: 50%;">
+								      <a href="images/LOS.png" class="image"><img src="images/LOS.png" alt="Length of Stay Dashboard" style="width: 100%; height: auto;"/></a>
+								      <ul>
+									<li>An interactive LOS histogram that allows users to filter by department, physician, or diagnosis code.</li>
+								      </ul>
+								    </article>
+								    <article style="flex: 1; max-width: 50%;">
+								      <a href="images/Readmission.png" class="image"><img src="images/Readmission.png" alt="30-Day Readmission Rate Dashboard" style="width: 100%; height: auto;"/></a>
+								      <ul>
+									<li>A trend line graph that tracks 30-day Readmission rates over time, offering drill-down capabilities into patient demographics and comorbidities.</li>
+								      </ul>
+								    </article>
+								  </section>
+								  <p>These visualizations help in making informed decisions to enhance patient outcomes and hospital resource management.</p>
+								  <ul class="actions">
+								    <li><a href="#" class="button">Browse All</a></li>
+								  </ul>
+							</section>
 
 				<!-- Footer -->
 					<section id="footer">

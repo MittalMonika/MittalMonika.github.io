@@ -4175,11 +4175,10 @@ input, select, textarea {
 	#two p {color:Wheat;}
 	#three p {color:Khaki;}
 	#four p {color:Gainsboro;}
-	#five p {color:LightBlue;}
-	#six p {color:Pale Goldenrod;}
+	#five p {color:Peru;}
 	#seven p {color:DarkGray;}
-
-	#eight p {color:Peru;}
+	#six p {color:Pale Goldenrod;}
+	#eight p {color:LightBlue;}
 	#nine p {color:coral;}
 	
 	
